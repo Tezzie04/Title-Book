@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="background.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trial</title>
+</head>
+<body>
+    
+    <h1><div class="header1"> V.E.SCHWAB </div></h1>
+    <h2><div class ="header2">GALLANT</div></h2>
+    <h3><div class="graph"> #1 Sunday Times Bestseller</div></h3>
+    
+    
+</body>
+</html>
