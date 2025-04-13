@@ -1,0 +1,71 @@
+/* Keyword Values of the Background */
+body {background-color: black;}
+
+h1 {
+    color:white;
+    text-align: center;
+    font-family: Garamond;
+    font-size: 500%;
+    font-weight: lighter;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    
+}
+
+h2 {
+    color: rgb(105, 22, 22);
+    text-align: center;
+    text-shadow: 2px 1.5px #000;
+    font-family: Garamond;
+    font-size: 450%;
+    font-weight: lighter;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+div.header1 {
+    position: absolute;
+    top: 46%;
+    right: 0%;
+    left: 0%;
+}
+
+div.header2 {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    left: 0%;
+}
+
+/* Italics for the lower part*/
+
+h3 {
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+    font-weight: lighter;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+div.graph {
+    position: absolute;
+    top: 58%;
+    right: 0%;
+    left: 0%;
+}
+
+/* fadeIn Animation */
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
